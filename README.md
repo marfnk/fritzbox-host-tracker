@@ -10,7 +10,7 @@ This script is useful for "is someone at home"-detection scripts.
 
 ## Install
 
-    npm install git+https://git@github.com/marfnk/fritzbox-host-tracker.git --save
+    npm install git+https://git@github.com/marfnk/node-fritzbox-host-tracker.git --save
 
 ## Usage Example
 
