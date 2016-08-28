@@ -1,0 +1,12 @@
+{
+  "name": "fritzbox-host-tracker",
+  "version": "0.0.1",
+  "description": "A Node JS script that tells you, wether a specified MAC adress is currently connected to your Fritz!Box.",
+  "main": "fritzbox-host-tracker.js",
+  "dependencies": {
+    "lodash": "~4.15.0",
+    "node-fritzbox": "~0.1.1"
+  },
+  "author": "Marius Fink",
+  "license": "MIT"
+}
